@@ -2,6 +2,8 @@
 
 ##INLOGIK TECHNICAL TEST  
 
+All the output of the tasks are housed with in the respective folders except for Task 1.
+
 ### Task 1
   1. Arvind already has an personal github account
   2. Giving the name and creating the readme file in the root
