@@ -21,4 +21,17 @@
   7. Create a playwright script to create the admin registration e2e test
   8. Update Readme.md in the root folder to document the steps done for Task 2
   9. Commit and push the changes to the branch "registration-wizard" 
-  10. Merge the changes to main branch
+  10. Squash Merge the changes to main branch and delete the branch "registration-wizard" 
+
+### Task 4
+***Initial hiccups and Assumption***  
+ * The link in the exercise file doesnt open-> searching the link "samples/csharp/getting-started/console-webapiclient/Program.cs at main · dotnet/samples" in chrome doesnt lead to any code
+ * Eva pointed me to the link https://github.com/dotnet/samples/blob/main/csharp/getting-started/console-webapiclient/Program.cs -> Assuming this to be the correct link to be used for the test.
+
+  1. Create a new branch "reading_code" in github
+  2. Check out the branch "reading_code" to the local machine
+  3. Create a new folder "Task4" -> create a new file "reading_code.md" under the folder
+  4. Explain the code from the link https://github.com/dotnet/samples/blob/main/csharp/getting-started/console-webapiclient/Program.cs in the file "reading_code.md"
+  5. Update Readme.md in the root folder to document the steps done for Task 4
+  6. Commit and push the changes to the branch "reading_code" 
+  7. Squash Merge the changes to main branch and delete the branch "reading_code" 
