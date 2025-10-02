@@ -21,3 +21,4 @@
   7. Create a playwright script to create the admin registration e2e test
   8. Update Readme.md in the root folder to document the steps done for Task 2
   9. Commit and push the changes to the branch "registration-wizard" 
+  10. Merge the changes to main branch
