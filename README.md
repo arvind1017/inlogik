@@ -14,10 +14,10 @@
 ### Task 2
   1. Create a new branch "registration-wizard" in github
   2. Open visual studio code and checkout the branch "registration-wizard" from inlogik repo to the local machine
-  3. Create a new folder "registration-wizard"
-  4. Create a new file "registration-wizard-test-approach.md" under "registration-wizard" folder
+  3. Create a new folder "Task2"
+  4. Create a new file "registration-wizard-test-approach.md" under "Task2" folder
   5. Document the test approach to the wizard in this file
-  6. Create a new folder "test" under "registration-wizard" folder
+  6. Create a new folder "test" under "Task2" folder
   7. Create a playwright script to create the admin registration e2e test
   8. Update Readme.md in the root folder to document the steps done for Task 2
   9. Commit and push the changes to the branch "registration-wizard" 
