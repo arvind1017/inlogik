@@ -23,6 +23,15 @@
   9. Commit and push the changes to the branch "registration-wizard" 
   10. Squash Merge the changes to main branch and delete the branch "registration-wizard" 
 
+### Task 3
+  1. Create a new branch "security-check" in github
+  2. Check out the branch "security-check" to the local machine
+  3. Create a new folder "Task3" -> create a new file "security.md" under the folder
+  4. Document the XSS injection vulnerability found in login screen in the file "security.md"
+  5. Update Readme.md in the root folder to document the steps done for Task 3
+  6. Commit and push the changes to the branch "security-check" 
+  7. Squash Merge the changes to main branch and delete the branch "security-check" 
+
 ### Task 4
 ***Initial hiccups and Assumption***  
  * The link in the exercise file doesnt open-> searching the link "samples/csharp/getting-started/console-webapiclient/Program.cs at main · dotnet/samples" in chrome doesnt lead to any code
